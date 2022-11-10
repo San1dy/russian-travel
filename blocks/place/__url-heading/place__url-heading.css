@@ -1,4 +1,4 @@
-.place__website_url-heading{
+.place__url-heading{
     font-family: "Inter","Arial",sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -14,29 +14,29 @@
     
 }
 @media screen and (max-width:880px){
-    .place__website_url-heading{
+    .place__url-heading{
         width:352px;
     }
 }
 @media screen and (max-width:768px){
-    .place__website_url-heading{
+    .place__url-heading{
         line-height: 12px;
         width:352px;
     }
 }
 @media screen and (max-width:750px){
-    .place__website_url-heading{
+    .place__url-heading{
         width:288px;
     }
 }
 @media screen and (max-width:631px){
-    .place__website_url-heading{
+    .place__url-heading{
         padding-left:20px;
         width:288px;
     }
 }
 @media screen and (max-width:320px){
-    .place__website_url-heading{
+    .place__url-heading{
         padding-left:16px;
         width:288px;
     }
